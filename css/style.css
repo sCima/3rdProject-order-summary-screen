@@ -9,7 +9,9 @@ body {
     max-height: 100vh;
     background-image: url(../images/pattern-background-desktop.svg);
     background-position: center;
-    
+    background-color: hsl(225, 100%, 94%);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
